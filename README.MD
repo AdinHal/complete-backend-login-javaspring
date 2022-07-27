@@ -1,4 +1,4 @@
-# Login System with Java Spring
+# Register System with Java Spring
 ![](https://i.imgur.com/VqUmOtb.jpg)
 
 - Create a database with PosgreSQL and connect it over the application.yml file
